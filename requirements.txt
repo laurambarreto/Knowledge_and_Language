@@ -1,0 +1,11 @@
+pandas
+numpy
+spacy
+matplotlib
+requests
+sparqlwrapper
+wikifier
+scikit-learn
+transformers
+cleanlab
+torch
